@@ -18,3 +18,10 @@
 * Lists
 * Navigation bar
 * Map
+
+### Logic Patterns
+
+* if/then
+* loops
+* state machines
+* concurrency
